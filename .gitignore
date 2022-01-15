@@ -1,0 +1,7 @@
+/.env
+/bank.json
+/boscobot.code-workspace
+/botcount.json
+/discord.log
+/ror2_storage.json
+/__pycache__
